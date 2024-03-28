@@ -29,12 +29,12 @@
       "stock": 34,
       "brand": "Apple",
       "category": "smartphones",
-      "thumbnail": "https://dummyjson.com/image/i/products/2/thumbnail.jpg",
+      "thumbnail": "https://personalwork.fi/wp-content/uploads/2017/10/iphonex_front_back_glass_big.jpg.large_.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/2/1.jpg",
-        "https://dummyjson.com/image/i/products/2/2.jpg",
-        "https://dummyjson.com/image/i/products/2/3.jpg",
-        "https://dummyjson.com/image/i/products/2/thumbnail.jpg"
+        "https://static.alaneesqatar.qa/2020/12/Apple-iPhone-X-256GB-1.png?tr=w-395,q-80",
+        "https://www.reddit.com/media?url=https%3A%2F%2Fexternal-preview.redd.it%2FkSAyCf3luFiS2LYcFj_3LkPoxsOR5-1-i0uFYb-89DU.jpg%3Fauto%3Dwebp%26s%3D2656785a9e0fdd252b05edba4b3b90462d219455",
+        "https://www.giztop.com/media/catalog/product/cache/dc206057cdd42d7e34b9d36e347785ca/g/o/goophone-xs.jpg",
+        "https://th.bing.com/th/id/OIP.X_tbbEyjAqoyIskrLZc0lwHaHa?w=1200&h=1200&rs=1&pid=ImgDetMain"
       ]
     },
     {
@@ -47,8 +47,8 @@
       "stock": 36,
       "brand": "Samsung",
       "category": "smartphones",
-      "thumbnail": "https://dummyjson.com/image/i/products/3/thumbnail.jpg",
-      "images": ["https://dummyjson.com/image/i/products/3/1.jpg"]
+      "thumbnail": "https://www.bdstall.com/asset/product-image/giant_70034.jpg",
+      "images": ["https://5.imimg.com/data5/HG/NB/GX/SELLER-11911805/samsung-galaxy-s9-plus-6gb-64gb-mrp-72000-00-500x500.jpg"]
     },
     {
       "id": 4,
@@ -60,13 +60,13 @@
       "stock": 123,
       "brand": "OPPO",
       "category": "smartphones",
-      "thumbnail": "https://dummyjson.com/image/i/products/4/thumbnail.jpg",
+      "thumbnail": "https://images.news18.com/ibnlive/uploads/2021/03/1615278473_oppo_f19_pro_plus.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/4/1.jpg",
-        "https://dummyjson.com/image/i/products/4/2.jpg",
-        "https://dummyjson.com/image/i/products/4/3.jpg",
-        "https://dummyjson.com/image/i/products/4/4.jpg",
-        "https://dummyjson.com/image/i/products/4/thumbnail.jpg"
+        "https://beebom.com/wp-content/uploads/2021/04/Oppo-F19-launched-in-India-feat..jpg?w=750&quality=75",
+        "https://cdn.phonebunch.com/news-images/2021/09/Oppo-F19s-colors-phonebunch.jpg",
+        "https://www.pricepony.com.ph/blog/wp-content/uploads/2021/01/best-oppo.jpg",
+        "https://cdn.phonebunch.com/news-images/2021/03/OPPO-F19-Pro-leak-image-phonebunch.jpg",
+        "https://fdn.gsmarena.com/imgroot/reviews/21/oppo-f19-pro-plus-5g-handson/lifestyle/-1200w5/gsmarena_001.jpg"
       ]
     },
     {
@@ -79,11 +79,11 @@
       "stock": 32,
       "brand": "Huawei",
       "category": "smartphones",
-      "thumbnail": "https://dummyjson.com/image/i/products/5/thumbnail.jpg",
+      "thumbnail": "https://www.dealstherapy.com/wp-content/uploads/2019/03/huawei-p30-dealstherapy-com-002.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/5/1.jpg",
-        "https://dummyjson.com/image/i/products/5/2.jpg",
-        "https://dummyjson.com/image/i/products/5/3.jpg"
+        "https://www.ephotozine.com/articles/huawei-p30-pro-smartphone-hands-on---sample-photos--review-in-progress--33401/images/highres-P30_Pro5_1554196355.jpg",
+        "https://www.cellulare-magazine.it/wp-content/uploads/2019/03/propro.jpg",
+        "https://th.bing.com/th/id/OIP.ucIDUQDlOGnqZuAE5YDfYAHaE8?rs=1&pid=ImgDetMain"
       ]
     },
     {
@@ -96,12 +96,12 @@
       "stock": 83,
       "brand": "APPle",
       "category": "laptops",
-      "thumbnail": "https://dummyjson.com/image/i/products/6/thumbnail.png",
+      "thumbnail": "https://images.idgesg.net/images/article/2017/06/macbook-2017-13in-macbook-air-100726398-orig.jpg",
       "images": [
-        "https://dummyjson.com/image/i/products/6/1.png",
-        "https://dummyjson.com/image/i/products/6/2.jpg",
-        "https://dummyjson.com/image/i/products/6/3.png",
-        "https://dummyjson.com/image/i/products/6/4.jpg"
+        "https://www.reddit.com/media?url=https%3A%2F%2Fi.redd.it%2Fb0oy5ewj05e51.jpg",
+        "https://www.gizmochina.com/wp-content/uploads/2020/11/MacBook-Air-featured.jpg",
+        "https://th.bing.com/th/id/R.6f564807acb201c36137c22626e4ec16?rik=S5GZ7zrE6Ps9KA&riu=http%3a%2f%2fhelp4electronics.eu%2fout_data%2fpictures%2f59b6fff6e78b998.jpg&ehk=mounDpBKO7A%2f9SKMxy4adpKHXp3E80yBHihXnNx3Q9s%3d&risl=&pid=ImgRaw&r=0",
+        "https://images.esellerpro.com/2131/I/155/415/lrgscaleP1060216.JPG"
       ]
     },
     {
@@ -114,12 +114,12 @@
       "stock": 50,
       "brand": "Samsung",
       "category": "laptops",
-      "thumbnail": "https://dummyjson.com/image/i/products/7/thumbnail.jpg",
+      "thumbnail": "https://cdn.shopify.com/s/files/1/1183/6364/products/a6512af7-09d4-4c29-be9e-e2f88baa7be7_0b9026b9-0c83-4d09-9012-37e7f6365f22_1200x.jpg?v=1622126148",
       "images": [
-        "https://dummyjson.com/image/i/products/7/1.jpg",
-        "https://dummyjson.com/image/i/products/7/2.jpg",
-        "https://dummyjson.com/image/i/products/7/3.jpg",
-        "https://dummyjson.com/image/i/products/7/thumbnail.jpg"
+        "https://cdn.mos.cms.futurecdn.net/vFDFn5ibJhjr6af8JSwiPQ.jpg",
+        "https://www.bhphotovideo.com/images/images2500x2500/samsung_np340xla_ka1us_14_galaxy_book_go_1635529.jpg",
+        "https://www.cityshop.tn/wp-content/uploads/2018/10/galaxy_book.jpeg",
+        "https://www.notebookcheck.net/uploads/tx_nbc2/galaxybookpro.jpg"
       ]
     },
     {
